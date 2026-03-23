@@ -1,6 +1,6 @@
 # Hi, I'm Pavan 
 
-I'm a graduate student in Computer Science at UT Dallas, currently exploring machine learning systems and how AI can be applied in real-world products.
+I'm a graduate student in Computer Science at UT Dallas, currently exploring machine learning systems and how AI can be applied in real world products.
 
 Most of my work is around building things from ML pipelines and LLM-based systems to backend services that tie everything together.
 
